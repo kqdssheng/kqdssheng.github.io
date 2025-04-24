@@ -2,18 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kqdssheng.github.io/blog</id>
     <title>扛枪的书生 Blog</title>
-    <updated>2025-04-07T11:44:14.000Z</updated>
+    <updated>2025-04-21T18:53:49.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kqdssheng.github.io/blog"/>
     <subtitle>扛枪的书生 Blog</subtitle>
     <icon>https://kqdssheng.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[2025年4月21日]]></title>
+        <id>https://kqdssheng.github.io/blog/2025/04/21/日记 </id>
+        <link href="https://kqdssheng.github.io/blog/2025/04/21/日记 "/>
+        <updated>2025-04-21T18:53:49.000Z</updated>
+        <summary type="html"><![CDATA[星期一 中雨 🌧️ 1849]]></summary>
+        <content type="html"><![CDATA[<p>星期一 中雨 🌧️ 18:53:49</p>
+<p>好久没有下雨了，今早起来雨下得很大，很凉爽，令人心旷神怡😌。</p>
+<p>今日活动内容：</p>
+<ol>
+<li>
+<p>将 Linux 中国的几篇文章进行了转移备份。</p>
+</li>
+<li>
+<p>将软件百宝箱的结构进行了调整，目前的结构非常明了清晰。</p>
+</li>
+</ol>
+<p>计划将 ntlm 、kerberos 协议的工作流程进行摘录，奈何今天的时间有点不够用了，明天搞吧。</p>
+<p><img decoding="async" loading="lazy" src="https://kqdssheng.github.io/assets/images/20240421-01-1b51e45eec1a10b8e8e3ca4e6e404939.png" width="879" height="545" class="img_ev3q"></p>]]></content>
+        <category label="日常" term="日常"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年4月14日]]></title>
+        <id>https://kqdssheng.github.io/blog/2025/04/14/日记</id>
+        <link href="https://kqdssheng.github.io/blog/2025/04/14/日记"/>
+        <updated>2025-04-14T18:18:03.000Z</updated>
+        <summary type="html"><![CDATA[星期一 晴 ☀️ 1803]]></summary>
+        <content type="html"><![CDATA[<p>星期一 晴 ☀️ 18:18:03</p>
+<p>这段时间练习打靶，在面对靶机时居然产生了很强烈的抗拒心理。</p>
+<p>很明显感觉到自己对渗透的热情在不断的减少，难道这条道路真的不适合我？<strong>🤔</strong></p>]]></content>
+        <category label="日常" term="日常"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025年4月7日]]></title>
         <id>https://kqdssheng.github.io/blog/2025/04/07/日记</id>
         <link href="https://kqdssheng.github.io/blog/2025/04/07/日记"/>
         <updated>2025-04-07T11:44:14.000Z</updated>
-        <summary type="html"><![CDATA[星期一 晴 ☀️]]></summary>
-        <content type="html"><![CDATA[<p>星期一 晴 ☀️</p>
+        <summary type="html"><![CDATA[星期一 晴 ☀️ 1114]]></summary>
+        <content type="html"><![CDATA[<p>星期一 晴 ☀️ 11:44:14</p>
 <p>最近的拖延症有点严重，计划好的事情总是要拖到最后才开始行动。</p>
 <p>今早将本站的细节处理好之后，下午就要开始打靶了，这事本该上周就进行的，哎😮‍💨</p>]]></content>
         <category label="日常" term="日常"/>
@@ -23,8 +55,8 @@
         <id>https://kqdssheng.github.io/blog/2025/04/04/日记</id>
         <link href="https://kqdssheng.github.io/blog/2025/04/04/日记"/>
         <updated>2025-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[星期五 多云 🌤️]]></summary>
-        <content type="html"><![CDATA[<p>星期五 多云 🌤️</p>
+        <summary type="html"><![CDATA[星期五 多云 🌤️ 夜]]></summary>
+        <content type="html"><![CDATA[<p>星期五 多云 🌤️ 夜</p>
 <p>今天是清明节，晚饭后漫步在路边，看到路边到处都在烧纸，火光冲天啊！</p>
 <p>今天同样也是值得纪念的一天，奋战2天终于将 本网站 调的差不多了，休息休息，明日继续肝。</p>]]></content>
         <category label="日常" term="日常"/>
